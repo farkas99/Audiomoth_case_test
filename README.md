@@ -8,7 +8,7 @@ The analysis compares two recordings made with an AudioMoth acoustic logger:
 1. **Membrane recording**: AudioMoth with waterproof membrane installed
 2. **Naked recording**: AudioMoth without any case or membrane
 
-The test audio was played from the YouTube video "Test Your Speakers/Headphone Sound Test" which includes various test segments (bass test, mid-range test, high-frequency test, etc.).
+The test audio was played from the YouTube video "Test Your Speakers/Headphone Sound Test: Low/Mid/High, L/R Test, Bass Test, Quality, Frequency Range" by GMODISM (https://www.youtube.com/watch?v=5Dc-5DD8P-0&t=24s) which includes various test segments (bass test, mid-range test, high-frequency test, etc.).
 
 ## Key Findings
 
