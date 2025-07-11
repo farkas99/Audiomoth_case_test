@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  audiomoth:
+    build: .
+    volumes:
+      - ./data:/app/data
+      - ./results:/app/results
+    command: python audio_analysis.py

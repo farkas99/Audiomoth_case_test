@@ -1,0 +1,40 @@
+Device ID                       : 242A26056487C5A7
+Firmware                        : AudioMoth-Firmware-Basic (1.11.0)
+
+Device time                     : 2025-07-02 14:24:17 (UTC)
+
+Sample rate (Hz)                : 48000
+Gain                            : Medium
+
+Sleep duration (s)              : 5
+Recording duration (s)          : 600
+
+Active recording periods        : 0
+
+
+First recording date            : ----------
+Last recording date             : ----------
+
+Filter                          : -
+
+Trigger type                    : -
+Threshold setting               : -
+Minimum trigger duration (s)    : -
+
+Enable LED                      : Yes
+Enable low-voltage cut-off      : Yes
+Enable battery level indication : Yes
+
+Always require acoustic chime   : No
+Use device ID in WAV file name  : No
+Use daily folder for WAV files  : No
+
+Disable 48Hz DC blocking filter : No
+Enable energy saver mode        : No
+Enable low gain range           : No
+
+Enable magnetic switch          : No
+
+Enable GPS time setting         : No
+GPS fix before and after        : -
+GPS fix time (mins)             : -
